@@ -6,6 +6,7 @@
 #### 4 little hash babies
 
 If this works you can follow this [link](href="http://www.espn.com") to espn.com.
+<link href="http://www.espn.com" rel="stylesheet">
 
 You can use the [editor on GitHub](https://github.com/tmuhlest/Tester/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
