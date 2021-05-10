@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages
-## Here is a second heading line
-## Here is a third line
-# This one is a little baby line
-### Lets get crazy and try 3 hashtags
-#### 4 little hash babies
+###### 6 hash baby
 
 If this works you can follow this [link](href="http://www.espn.com") to espn.com.
 <link href="http://www.espn.com" rel="stylesheet">
