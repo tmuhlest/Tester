@@ -18,7 +18,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Tell me if this works, ok?
 
-![Fancy](high.html)
+
+![Nice](highcahter.jpeg)
+[Fancy Graph Link](high.html)
 
 
 ### Markdown
